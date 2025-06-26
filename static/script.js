@@ -10,7 +10,7 @@ class CMUAfricaChatbot {
         
         this.isTyping = false;
         this.conversationHistory = [];
-        this.apiBaseUrl = 'http://localhost:5000/api'; // Backend API URL
+        this.apiBaseUrl = 'https://andrew-lawd.onrender.com/api'; // Backend API URL
         this.systemReady = false;
         
         this.init();
