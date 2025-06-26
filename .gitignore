@@ -1,6 +1,0 @@
-/.venv
-/sources
-/vector_store
-.env
-*.pyc
-sources.txt
