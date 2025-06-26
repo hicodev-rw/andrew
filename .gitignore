@@ -3,5 +3,4 @@
 /vector_store
 .env
 *.pyc
-*.html
 sources.txt
